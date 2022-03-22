@@ -1,5 +1,7 @@
 package quikr;
 
-public class Akshay {
+public class Akshay 
+{
+	
 
 }
